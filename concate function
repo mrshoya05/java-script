@@ -1,0 +1,6 @@
+//add two strings with concat functio.
+let str = "shoya ";
+let str2 = "khan";
+let str3 = str.concat(str2);
+console.log(str3);
+//out out will be 'shoya khan'
